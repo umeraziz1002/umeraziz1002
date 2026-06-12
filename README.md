@@ -2,6 +2,13 @@
 <h3 align="center">BS Computer Science Student | AI & IoT Enthusiast | Computer Vision Researcher</h3>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+
+<h1 align="center">🤖 Hi, I'm Umer Aziz</h1>
+<h3 align="center">AI • Computer Vision • IoT • Cybersecurity</h3>
+
+<p align="center">
   <a href="https://github.com/umeraziz1002">
     <img src="https://komarev.com/ghpvc/?username=umeraziz1002&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
