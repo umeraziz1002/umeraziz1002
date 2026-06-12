@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umer Aziz</h1>
 <h3 align="center">BS Computer Science Student | AI & IoT Enthusiast | Computer Vision Researcher</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2E5cWJ1aXJmMm1lZ2R4N3M4M2p0aW1vM3N4dDV2d3B6eHZ5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="350">
+  <img src="02fe4bd5-8c88-4351-a78f-353a57ea279a.gif" width="350">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
