@@ -26,18 +26,24 @@ Computer Vision Researcher
 </tr>
 </table>
 
----
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
-- 🎓 BS Computer Science Student
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning
-- 👁️ Working on Computer Vision projects using YOLO
-- 🌐 Experience with IoT Systems using ESP32 and Arduino
-- 🔐 Learning Cybersecurity and Information Security
-- 📚 Passionate about research and emerging technologies
+<p>
+  <img src="https://img.shields.io/badge/AI-Research-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Computer-Vision-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IoT-ESP32-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-red?style=for-the-badge">
+</p>
 
----
+<ul >
+  <li>🤖 Building intelligent systems with AI and Deep Learning</li>
+  <li>👁️ Working on Computer Vision projects using YOLO</li>
+  <li>🌐 Developing smart IoT solutions with ESP32 & Arduino</li>
+  <li>🔐 Exploring Cybersecurity and Security Operations</li>
+  <li>🧠 Interested in Edge AI, LLMs, and AI for Healthcare</li>
+</ul>
+
 
 ## 🛠️ Tech Stack
 
@@ -58,7 +64,6 @@ Computer Vision Researcher
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
 ## 🔥 Featured Projects
 
@@ -77,9 +82,8 @@ Computer Vision Researcher
 - Real-time surveillance and monitoring
 - Computer Vision applications
 
----
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umeraziz1002&show_icons=true&theme=tokyonight" />
@@ -93,23 +97,15 @@ Computer Vision Researcher
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umeraziz1002&theme=tokyonight" />
 </p>
 
----
-
 ## 🌱 Currently Learning
 
 - Large Language Models (LLMs)
 - Deep Learning for Computer Vision
-- Cybersecurity & Ethical Hacking
 - AI for Healthcare
 
----
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/umeraziz1002
-- LinkedIn: Add your LinkedIn URL here
-- Email: Add your Email here
-
----
 
 ⭐ *"Building intelligent systems that solve real-world problems."*
