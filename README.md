@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umer Aziz</h1>
 <h3 align="center">BS Computer Science Student | AI & IoT Enthusiast | Computer Vision Researcher</h3>
-<p align="center">
+<p align="left">
   <img src="02fe4bd5-8c88-4351-a78f-353a57ea279a.gif" width="350">
 </p>
 <p align="center">
