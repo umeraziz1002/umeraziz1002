@@ -1,17 +1,30 @@
-<h1 align="center">Hi 👋, I'm Umer Aziz</h1>
-<h3 align="center">BS Computer Science Student | AI & IoT Enthusiast | Computer Vision Researcher</h3>
-<p align="left">
-  <img src="02fe4bd5-8c88-4351-a78f-353a57ea279a.gif" width="350">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
+<table>
+<tr>
+<td width="65%">
 
-<p align="center">
+<h1>Hi 👋, I'm Umer Aziz</h1>
+
+<h3>
+BS Computer Science Student <br>
+AI & IoT Enthusiast <br>
+Computer Vision Researcher
+</h3>
+
+<p>
   <a href="https://github.com/umeraziz1002">
     <img src="https://komarev.com/ghpvc/?username=umeraziz1002&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
+
+</td>
+
+<td width="35%">
+
+<img src="02fe4bd5-8c88-4351-a78f-353a57ea279a.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
