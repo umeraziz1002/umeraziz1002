@@ -1,8 +1,8 @@
-<table align="center" border="none">
+<table align="center" style="border: 0px solid white">
 <tr>
-<td width="65%">
+<td width="85%">
 
-<h1>Hi 👋, I'm Umer Aziz</h1>
+<h1>Hi 👋,</br> I'm Umer Aziz</h1>
 
 <h3>
 BS Computer Science Student <br>
@@ -20,7 +20,7 @@ Computer Vision Researcher
 
 <td width="35%">
 
-<img src="02fe4bd5-8c88-4351-a78f-353a57ea279a.gif" width="300"/>
+<img src="02fe4bd5-8c88-4351-a78f-353a57ea279a.gif" width="250"/>
 
 </td>
 </tr>
